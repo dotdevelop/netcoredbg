@@ -22,3 +22,9 @@ bin/
 obj/
 /.dotnet/
 /.coreclr/
+
+# install dir if not under MonoDevelop
+/Samsung.Netcoredbg/
+
+#rider
+/.idea/
